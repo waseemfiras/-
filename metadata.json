@@ -1,0 +1,6 @@
+{
+  "name": "مولد البرومبتات الذكي",
+  "description": "تطبيق متطور لتوليد، تحسين وتخصيص برومبتات الذكاء الاصطناعي مع واجهة عصرية ومحاكاة أنظمة وإعدادات ذكية مبنية على Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
